@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MySceneP4Bowker.unity
     guid: cae2feb4ec1f076428a532a9b236c4c7
+  - enabled: 1
+    path: Assets/Test.unity
+    guid: 59565c4273413f944a6b53de348a5cda
   m_configObjects: {}
