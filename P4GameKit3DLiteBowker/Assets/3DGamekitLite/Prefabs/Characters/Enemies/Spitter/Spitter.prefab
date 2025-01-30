@@ -2469,7 +2469,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1500461124768838}
-  m_LocalRotation: {x: 0, y: -0.55734223, z: -0, w: 0.83028287}
+  m_LocalRotation: {x: 0, y: -0.5237447, z: -0, w: 0.8518753}
   m_LocalPosition: {x: 40.09, y: -2.99, z: 25.67}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -2516,9 +2516,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   playerScanner:
     heightOffset: 1
-    detectionRadius: 15
+    detectionRadius: 1
     detectionAngle: 360
-    maxHeightDifference: 1
+    maxHeightDifference: 10
     viewBlockerLayerMask:
       serializedVersion: 2
       m_Bits: 3221225472
